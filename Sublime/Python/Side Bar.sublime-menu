@@ -1,0 +1,14 @@
+[
+    {
+        "caption": "PyQt5",
+        "id": "pyqt5_commands",
+        "children":
+        [
+            {
+                "caption": "Compile UI",
+                "command": "compile_ui",
+                "args": {"files": []}
+            }
+        ]
+    }
+]
